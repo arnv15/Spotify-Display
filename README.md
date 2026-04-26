@@ -1,8 +1,7 @@
 I made a Spotify Display using an ESP-C3 to let me control music from spotify. I can see what is currently playing from the LCD display
-and I have 3 keys at the top to actually control my music.
+and I have 6 keys at the top to actually control my music, timers, clock, etc.
 
-My project is a spotify player that lets me control the music that I am playing without having to switch windows on my laptop.
-This also taught me how to CAD better and quicker
+I started this off by following the guide, but now am trying to make it so I can use it as another peripheral in my setup.
 
 Here are some photos of the Full Display:
 
