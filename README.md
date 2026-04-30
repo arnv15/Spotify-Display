@@ -11,6 +11,9 @@ Here are some photos of the Full Display:
 
 ![](Assets/Top.png)
 
+And of the Wiring Diagram, I will be wiring everthing with jumper cables and directly soldering them onto the pads/pins
+![](Assets/wiringDiagram.png)
+
 ## Bill of Materials (BOM)
 
 | Name                          | Purpose      | Link                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Price | Quantity |
